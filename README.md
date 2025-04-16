@@ -1,5 +1,5 @@
 # EPIIC: Edge-Preserving Method Increasing nucleI Clarity for Compression Artifacts Removal in Whole-Slide Histopathological Images
-Authors: Julia Merta, Michał Marczyk
+
 ![obraz](https://github.com/user-attachments/assets/8922db78-3572-4f25-b58a-66f81efc93e2)
 
 This repository contains the implementation of the **EPIIC** and **EPIIC Sobel** methods designed to remove JPEG compression artifacts from hematoxylin and eosin (H&E)-stained histopathological images.
@@ -31,4 +31,4 @@ If you use this repository in your research, please cite the following paper (pa
 Increasing Nuclei Clarity for
 Compression Artifacts Removal in
 Whole-Slide Histopathological Images.
-Appl. Sci. 2025, 1, 0]([URL if applicable](https://doi.org/))
+Appl. Sci. 2025, 1, 0]([LINK](https://doi.org/))
