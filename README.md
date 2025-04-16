@@ -22,3 +22,13 @@ This repository contains the implementation of the **EPIIC** and **EPIIC Sobel**
      - *Other tested methods are available in the `Utils/process_image.m` function*
 
 4. Run the code, and the result with SSIM and PSNR values will be displayed in the Figure window.
+
+## How to cite
+
+If you use this repository in your research, please cite the following paper (paper is accepted for publication, doi would be updated):
+
+> [Julia Merta, Michał Marczyk, EPIIC: Edge-Preserving Method
+Increasing Nuclei Clarity for
+Compression Artifacts Removal in
+Whole-Slide Histopathological Images.
+Appl. Sci. 2025, 1, 0]([URL if applicable](https://doi.org/))
