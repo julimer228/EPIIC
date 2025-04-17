@@ -27,8 +27,7 @@ This repository contains the implementation of the **EPIIC** and **EPIIC Sobel**
 
 If you use this repository in your research, please cite the following paper (paper is accepted for publication, doi would be updated):
 
-> [Julia Merta, Michał Marczyk, EPIIC: Edge-Preserving Method
-Increasing Nuclei Clarity for
-Compression Artifacts Removal in
-Whole-Slide Histopathological Images.
-Appl. Sci. 2025, 1, 0]([LINK](https://doi.org/10.3390/app15084450))
+[Julia Merta, Michał Marczyk,  
+EPIIC: Edge-Preserving Method Increasing Nuclei Clarity for Compression Artifacts Removal in Whole-Slide Histopathological Images.  
+*Appl. Sci.* **2025**, *1*, 0](https://doi.org/10.3390/app15084450)
+
