@@ -31,4 +31,4 @@ If you use this repository in your research, please cite the following paper (pa
 Increasing Nuclei Clarity for
 Compression Artifacts Removal in
 Whole-Slide Histopathological Images.
-Appl. Sci. 2025, 1, 0]([LINK](https://doi.org/))
+Appl. Sci. 2025, 1, 0]([LINK](https://doi.org/10.3390/app15084450))
