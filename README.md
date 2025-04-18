@@ -25,7 +25,7 @@ This repository contains the implementation of the **EPIIC** and **EPIIC Sobel**
 
 ## How to cite
 
-If you use this repository in your research, please cite the following paper (paper is accepted for publication, doi would be updated):
+If you use this repository in your research, please cite the following paper:
 
 [Julia Merta, Michał Marczyk,  
 EPIIC: Edge-Preserving Method Increasing Nuclei Clarity for Compression Artifacts Removal in Whole-Slide Histopathological Images.  
